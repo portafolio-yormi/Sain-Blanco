@@ -222,8 +222,9 @@ nav ul li a {
 }
 
 .logo img {
-  width: 100px;
-  height: 50px;
+  width: 60px;
+  /* height: 50px; */
+  height: auto;
 }
 
 .responsive {
