@@ -1,10 +1,4 @@
 
-/*
-  Theme Name: Folio
-  Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-  Author: BootstrapMade.com
-  Author URL: https://bootstrapmade.com
-*/
 
 /*  General Styling
 /*-----------------------------------------------------------------------------------*/
@@ -61,7 +55,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: #efc72f;
   text-decoration: underline;
 }
 
@@ -91,12 +85,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #efc72f;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #efc72f;
   color: #fff;
 }
 
@@ -165,7 +159,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #efc72f;
 }
 
 .mb-30 {
@@ -178,7 +172,7 @@ p {
 
 nav {
   position: fixed;
-  background: #fff;
+  background: #1b262c;
   z-index: 1000;
   width: 100%;
   padding: 20px;
@@ -208,7 +202,7 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 14px;
-  color: #999999;
+  color: #fff;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
   line-height: 16px;
@@ -297,7 +291,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #efc72f;
 }
 
 #about .div-img-bg .about-img img {
@@ -380,7 +374,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #efc72f;
 }
 
 .owl-nav {
@@ -425,7 +419,7 @@ nav ul li a {
 }
 
 #portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
-  color: #b8a07e;
+  color: #efc72f;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -500,7 +494,7 @@ nav ul li a {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #efc72f;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -611,7 +605,7 @@ nav ul li a {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #efc72f;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
