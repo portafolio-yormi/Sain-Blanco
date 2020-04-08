@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Sain Blanco.", "Diseñador Grafico.", "UX / UI.", "Freelancer.", "Fotografia."],
+      strings: ["Sain Blanco.", "Diseñador Grafico.", "Diseñador UX / UI.", "Freelancer.", "Social Media."],
       typeSpeed: 100,
       loop: true,
     });
